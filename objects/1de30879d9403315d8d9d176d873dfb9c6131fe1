@@ -1,0 +1,16 @@
+[map "ca574402-fce0-3f33-8ef0-756a5f6fd6bb"]
+	object = e0865f1a9e50fe14dd695a652a362be3ace7e5f9
+	path = GxIntegrationTest.repo-1
+	type = expand module
+[map "6f311b35-7036-3275-a4fe-4715743c972d"]
+	object = e0865f1a9e50fe14dd695a652a362be3ace7e5f9
+	path = GxIntegrationTest.repo-2
+	type = expand module
+[map "d1878c25-c34b-3c0f-9653-533e6ec2fa99"]
+	object = e0865f1a9e50fe14dd695a652a362be3ace7e5f9
+	path = GxIntegrationTest.repo-3
+	type = expand module
+[map "99c990f8-6139-3065-b175-958bd6f04b4d"]
+	object = e0865f1a9e50fe14dd695a652a362be3ace7e5f9
+	path = GxIntegrationTest.repo-4
+	type = expand module

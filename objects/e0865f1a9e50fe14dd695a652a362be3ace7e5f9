@@ -1,0 +1,48 @@
+[module "ac688c05-d332-30bb-8c70-d787ace8ce25"]
+	conflict = request-pull
+	path = GxIntegrationTest.repo-1
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "a3f7e5bb-db67-3684-a80a-c1d52ac9137b"]
+	conflict = request-pull
+	path = GxIntegrationTest.repo-2
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "745169b5-136c-3f71-a9fd-3a896293fdf6"]
+	conflict = request-pull
+	path = GxIntegrationTest.repo-3
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "87bb769b-c0cd-3dac-920f-68df4af5bd54"]
+	conflict = request-pull
+	path = GxIntegrationTest.repo-4
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[map "86c6f97f-6f88-3640-8baf-2809195a4d1c"]
+	object = 1de30879d9403315d8d9d176d873dfb9c6131fe1
+	path = GxIntegrationTest.repo-1
+	stage = sync
+	type = extract module
+[map "81dfa766-397e-3e1f-81be-3cbe0ccff7ea"]
+	object = 1de30879d9403315d8d9d176d873dfb9c6131fe1
+	path = GxIntegrationTest.repo-2
+	stage = sync
+	type = extract module
+[map "0fa21c33-585f-3724-a184-625a79d346f5"]
+	object = 1de30879d9403315d8d9d176d873dfb9c6131fe1
+	path = GxIntegrationTest.repo-3
+	stage = sync
+	type = extract module
+[map "cd1df086-92f0-3d3d-bd7c-b509e3af70eb"]
+	object = 1de30879d9403315d8d9d176d873dfb9c6131fe1
+	path = GxIntegrationTest.repo-4
+	stage = sync
+	type = extract module
